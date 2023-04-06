@@ -1,3 +1,3 @@
 //first javascript code
-let a = "Antarip Chatterjee"
-console.log("Hello world")
+let a = "Hello world"
+console.log(a)
