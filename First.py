@@ -1,3 +1,3 @@
 ##first python code
-a = ' hello world'
+a = 'hello world'
 print(a)
